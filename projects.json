@@ -1,0 +1,50 @@
+[
+  {
+    "name": "AirSynth",
+    "description": "This project contains Arduino code as well as Python Code and the files for the piano sound files.",
+    "html_url": "https://github.com/Vash-Codex/AirSynth",
+    "homepage": ""
+  },
+  {
+    "name": "Auri-Assistant-",
+    "description": "",
+    "html_url": "https://github.com/Vash-Codex/Auri-Assistant-",
+    "homepage": ""
+  },
+  {
+    "name": "Auri-ESP",
+    "description": "It is a desk assistant like a Tamagotchi with main feature being a clock and a fun UI that acts as a stress relieving agent. It withdraws time from the wifi, can show custom messages which can be updated from the webpage on the local network and lastly it is controlled with a potentiometer to make it easy to use.",
+    "html_url": "https://github.com/Vash-Codex/Auri-ESP",
+    "homepage": ""
+  },
+  {
+    "name": "Hand-Tracking.ESP",
+    "description": "Lightweight ESP32 project that maps real-time MediaPipe hand landmarks to two servos over serial, with smooth movement, OLED status, and manual keyboard controls.",
+    "html_url": "https://github.com/Vash-Codex/Hand-Tracking.ESP",
+    "homepage": ""
+  },
+  {
+    "name": "HandSpacev1",
+    "description": "web based html mixed reality glasses",
+    "html_url": "https://github.com/Vash-Codex/HandSpacev1",
+    "homepage": ""
+  },
+  {
+    "name": "Mathematical-Projects",
+    "description": "This repository contain python projects which helps in solving mathematical equations",
+    "html_url": "https://github.com/Vash-Codex/Mathematical-Projects",
+    "homepage": ""
+  },
+  {
+    "name": "Portfolio",
+    "description": "Business Card as a Webpage",
+    "html_url": "https://github.com/Vash-Codex/Portfolio",
+    "homepage": ""
+  },
+  {
+    "name": "Servo-Facial-Tracking",
+    "description": "This project contains Arduino code as well as Python Code for a Facial Tracking model (in python) and code to point towards the faced tracked via servo.",
+    "html_url": "https://github.com/Vash-Codex/Servo-Facial-Tracking",
+    "homepage": ""
+  }
+]
